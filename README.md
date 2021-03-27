@@ -1,9 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#Tic-Tac-Toe
 
-# Tic-Tac-Toe
+>Interactive tic-tac-toe game with React.
 
-Interactive tic-tac-toe game with React.
-
-# Prerequisite
+#Prerequisite
 
 NodeJS
+
+#Usage
+``````
+npm install
+npm start
+
+# Build
+npm run build
+or
+yarn build
+```
+
