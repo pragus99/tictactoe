@@ -1,12 +1,12 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
 >Interactive tic-tac-toe game with React.
 
-#Prerequisite
+# Prerequisite
 
 NodeJS
 
-#Usage
+# Usage
 ``````
 npm install
 npm start
